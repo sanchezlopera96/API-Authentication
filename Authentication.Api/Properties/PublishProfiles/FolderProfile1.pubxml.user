@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\PC\Desktop\apiauthentication</_PublishTargetUrl>
+    <History>True|2024-04-27T00:42:44.0460074Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=coraje.database.windows.net%3bDatabase=Authentication %3bUser ID=admindba%3bPassword=Colombia123%3bPersist Security Info=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

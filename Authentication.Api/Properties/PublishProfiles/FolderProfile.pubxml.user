@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\PC\Desktop\api-authentication</_PublishTargetUrl>
+    <History>True|2024-04-22T18:16:39.5530727Z;True|2024-04-22T08:42:28.5416608-05:00;True|2024-04-21T22:30:53.3851464-05:00;True|2024-04-21T22:14:19.9994492-05:00;True|2024-04-21T22:13:31.5669699-05:00;True|2024-04-21T22:00:49.0711733-05:00;True|2024-04-21T21:56:51.7273414-05:00;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=coraje.database.windows.net%3bDatabase=Authentication %3bUser ID=admindba%3bPassword=Colombia123%3bPersist Security Info=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

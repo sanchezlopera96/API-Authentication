@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\bin\Release\net6.0\Authentication.Infrastructure.deps.json
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\bin\Release\net6.0\Authentication.Infrastructure.dll
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\bin\Release\net6.0\Authentication.Infrastructure.pdb
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\bin\Release\net6.0\Authentication.Domain.dll
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\bin\Release\net6.0\Authentication.Service.dll
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\bin\Release\net6.0\Authentication.Domain.pdb
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\bin\Release\net6.0\Authentication.Service.pdb
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\obj\Release\net6.0\Authentication.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\obj\Release\net6.0\Authentication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\obj\Release\net6.0\Authentication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\obj\Release\net6.0\Authentication.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\obj\Release\net6.0\Authentication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\obj\Release\net6.0\Authentication.Infrastructure.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\obj\Release\net6.0\Authentication.Infrastructure.dll
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\obj\Release\net6.0\refint\Authentication.Infrastructure.dll
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\obj\Release\net6.0\Authentication.Infrastructure.pdb
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Infrastructure\obj\Release\net6.0\ref\Authentication.Infrastructure.dll

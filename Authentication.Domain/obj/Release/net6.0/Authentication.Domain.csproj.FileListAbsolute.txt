@@ -1,0 +1,12 @@
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Domain\bin\Release\net6.0\Authentication.Domain.deps.json
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Domain\bin\Release\net6.0\Authentication.Domain.dll
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Domain\bin\Release\net6.0\Authentication.Domain.pdb
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Domain\obj\Release\net6.0\Authentication.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Domain\obj\Release\net6.0\Authentication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Domain\obj\Release\net6.0\Authentication.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Domain\obj\Release\net6.0\Authentication.Domain.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Domain\obj\Release\net6.0\Authentication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Domain\obj\Release\net6.0\Authentication.Domain.dll
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Domain\obj\Release\net6.0\refint\Authentication.Domain.dll
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Domain\obj\Release\net6.0\Authentication.Domain.pdb
+C:\Users\PC\Documents\GitHub\Authentication\Authentication.Domain\obj\Release\net6.0\ref\Authentication.Domain.dll
